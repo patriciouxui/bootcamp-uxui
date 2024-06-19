@@ -1,22 +1,25 @@
+<img width="600px" src="https://media.licdn.com/dms/image/D4D12AQEk2-NDSaCMsA/article-cover_image-shrink_720_1280/0/1694698362763?e=2147483647&v=beta&t=j73Vb1VuVeM23aXpO3l_8YT2H5QKrtE3mLeLI0y893E">
+
 # PLAN FORMATIVO DISEÑO UX/UI V2.0
 
--## COMPETENCIA DEL PLAN FORMATIVO
+**COMPETENCIA DEL PLAN FORMATIVO**
+
 Diseñar experiencia de usuario e interfaces, flujos de navegación y prototipos centrados en la experiencia y las necesidades reales de los usuarios, utilizando una metodología de diseño que asegure la satisfacción de las personas y la accesibilidad de los productos digitales, aplicando técnicas de investigación y benchmarking para cumplir con los objetivos propuestos.
 
-## NÚMERO DE MÓDULOS Y HORAS DE DURACIÓN
+**NÚMERO DE MÓDULOS Y HORAS DE DURACIÓN**
 
 | Módulo | Nombre | Horas de Duración |
 | ------ | ------ | ----------------- |
-| 1 | Orientación al perfil y metodología del curso | 18 |
+| 1 | <img width="30px" src="https://static.vecteezy.com/system/resources/thumbnails/005/544/718/small/profile-icon-design-free-vector.jpg">Orientación al perfil y metodología del curso | 18 |
 | 2 | Métodos de investigación ux (v2) | 54 |
 | 3 | Fundamentos del diseño centrado en usuarios | 72 |
 | 4 | Arquitectura de la información (v2) | 32 |
 | 5 | Diseño de interfaz y de interacción (v2) | 90 |
 | 6 | Fundamentos del diseño visual y desarrollo web (v2) | 100 |
 | 7 | Desarrollo de portafolio de un producto digital | 18 |
-| 8 | Desarrollo de empleabilidad en la industria digital | 18 |
 
-**TOTAL DE HORAS**: 402,00
+
+**TOTAL DE HORAS**: 402
 
 
 
