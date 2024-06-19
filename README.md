@@ -28,6 +28,7 @@ Diseñar experiencia de usuario e interfaces, flujos de navegación y prototipos
 
 
 ## MÓDULO 1 - ORIENTACIÓN AL PERFIL Y METODOLOGÍA DEL CURSO  
+<img width="200px" src="./_extras/orientacion.png">
 
 **horas**:
 18
@@ -97,6 +98,8 @@ Identificar las competencias y habilidades del perfil profesional junto al rol q
 
 ## MÓDULO 2 - MÉTODOS DE INVESTIGACIÓN UX (V2)
 
+<img width="200px" src="./_extras/investigacion.png">
+
 **horas**:
 54
 
@@ -143,6 +146,8 @@ Aplicar métodos de investigación UX, a través de técnicas y herramientas de 
 
 ## MÓDULO 3 - FUNDAMENTOS DEL DISEÑO CENTRADO EN USUARIOS  
 
+<img width="200px" src="./_extras/usuario.png">
+
 **horas**:
 72
 
@@ -181,6 +186,8 @@ Diseñar productos digitales aplicando los principios del diseño centrado en el
 
 ## MÓDULO 4 - ARQUITECTURA DE LA INFORMACIÓN (V2)  
 
+<img width="200px" src="./_extras/arquitectura.png">
+
 **horas**:
 32
 
@@ -218,6 +225,8 @@ Diseñar la estructura y organización de la información de productos digitales
 
 
 ## MÓDULO 5 - DISEÑO DE INTERFAZ Y DE INTERACCIÓN (V2)  
+
+<img width="200px" src="./_extras/interaccion.png">
 
 **horas**:
 90
@@ -263,6 +272,8 @@ Diseñar interfaces de usuario y elementos de interacción para productos digita
 
 ## MÓDULO 6 - FUNDAMENTOS DEL DISEÑO VISUAL Y DESARROLLO WEB (V2)  
 
+<img width="200px" src="./_extras/diseno.png">
+
 **horas**:
 100
 
@@ -304,6 +315,8 @@ Desarrollar productos digitales aplicando los principios del diseño visual y la
 
 
 ## MÓDULO 7 - DESARROLLO DE PORTAFOLIO DE UN PRODUCTO DIGITAL  
+
+<img width="200px" src="./_extras/portafolio.png">
 
 **horas**:
 18
