@@ -1,4 +1,4 @@
-<img width="600px" src="https://media.licdn.com/dms/image/D4D12AQEk2-NDSaCMsA/article-cover_image-shrink_720_1280/0/1694698362763?e=2147483647&v=beta&t=j73Vb1VuVeM23aXpO3l_8YT2H5QKrtE3mLeLI0y893E">
+<img width="600px" src="./_extras/cover.jpeg">
 
 # PLAN FORMATIVO DISEÑO UX/UI V2.0
 
@@ -10,13 +10,13 @@ Diseñar experiencia de usuario e interfaces, flujos de navegación y prototipos
 
 | Módulo | Nombre | Horas de Duración |
 | ------ | ------ | ----------------- |
-| 1 | <img width="30px" src="https://static.vecteezy.com/system/resources/thumbnails/005/544/718/small/profile-icon-design-free-vector.jpg">Orientación al perfil y metodología del curso | 18 |
-| 2 | Métodos de investigación ux (v2) | 54 |
-| 3 | Fundamentos del diseño centrado en usuarios | 72 |
-| 4 | Arquitectura de la información (v2) | 32 |
-| 5 | Diseño de interfaz y de interacción (v2) | 90 |
-| 6 | Fundamentos del diseño visual y desarrollo web (v2) | 100 |
-| 7 | Desarrollo de portafolio de un producto digital | 18 |
+| 1 | <img width="30px" src="./_extras/orientacion.png">Orientación al perfil y metodología del curso | 18 |
+| 2 | <img width="30px" src="./_extras/investigacion.png"> Métodos de investigación ux (v2) | 54 |
+| 3 | <img width="30px" src="./_extras/usuario.png">Fundamentos del diseño centrado en usuarios | 72 |
+| 4 | <img width="30px" src="./_extras/arquitectura.png">Arquitectura de la información (v2) | 32 |
+| 5 | <img width="30px" src="./_extras/interaccion.png">Diseño de interfaz y de interacción (v2) | 90 |
+| 6 | <img width="30px" src="./_extras/diseno.png">Fundamentos del diseño visual y desarrollo web (v2) | 100 |
+| 7 | <img width="30px" src="./_extras/portafolio.png">Desarrollo de portafolio de un producto digital | 18 |
 
 
 **TOTAL DE HORAS**: 402
