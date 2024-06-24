@@ -5,6 +5,8 @@
 
 Indice
 
+<img width="500px" src="./_extras/cover2.jpg" style="border-radius: 50px ">
+
 - <a href="./plan-formativo.md">Plan Formativo</a> 
 
 <br>
