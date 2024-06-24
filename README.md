@@ -5,27 +5,30 @@
 
 Indice
 
-<img width="500px" src="./_extras/cover2.jpg" style="border-radius: 50px ">
+<img width="400px" src="./_extras/cover2.jpg">
 
-- <a href="./plan-formativo.md">Plan Formativo</a> 
+---
+1. Plan
+	- <a href="./plan-formativo.md">Plan Formativo</a> 
 
-<br>
 
-- <a href="./cursos-certificados.md">Cursos con Certificados</a> 
-- <a href="./cursos-youtube.md">Cursos en Youtube</a> 
-- <a href="./cursos-extras.md">Cursos Extras</a> 
+1. Cursos
+	- <a href="./cursos-certificados.md">Cursos con Certificados</a> 
+	- <a href="./cursos-youtube.md">Cursos en Youtube</a> 
+	- <a href="./cursos-extras.md">Cursos Extras</a> 
 
-- <a href="./comunidades.md">Comunidades UXUI y Diseño</a> 
+1. Comunidades
+	- <a href="./comunidades.md">Comunidades UXUI y Diseño</a> 
+	- <a href="./podcast.md">Podcasts</a> 
 
-<br>
+1. Recursos
+	 - <a href="./recursos.md">Recursos</a> 
+	 - <a href="./herramientas.md">Herramientas</a> 
 
-- <a href="./herramientas.md">Herramientas</a> 
-- <a href="./podcast.md">Podcasts</a> 
 
-<br>
 
-- <a href="./post-it.md">Post-it</a> 
+1. Notas
+	- <a href="./post-it.md">Post-it</a> 
 
-- <a href="./recursos.md">recursos</a> 
 
 
