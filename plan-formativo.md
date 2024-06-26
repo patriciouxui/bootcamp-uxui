@@ -10,13 +10,13 @@ Diseñar experiencia de usuario e interfaces, flujos de navegación y prototipos
 
 | Módulo | Nombre | Horas de Duración |
 | ------ | ------ | ----------------- |
-| 1 | <img width="30px" src="./_extras/orientacion.png">Orientación al perfil y metodología del curso | 18 |
+| 1 | <img width="30px" src="./_extras/orientacion.png"> Orientación al perfil y metodología del curso | 18 |
 | 2 | <img width="30px" src="./_extras/investigacion.png"> Métodos de investigación ux (v2) | 54 |
 | 3 | <img width="30px" src="./_extras/usuario.png">Fundamentos del diseño centrado en usuarios | 72 |
-| 4 | <img width="30px" src="./_extras/arquitectura.png">Arquitectura de la información (v2) | 32 |
-| 5 | <img width="30px" src="./_extras/interaccion.png">Diseño de interfaz y de interacción (v2) | 90 |
-| 6 | <img width="30px" src="./_extras/diseno.png">Fundamentos del diseño visual y desarrollo web (v2) | 100 |
-| 7 | <img width="30px" src="./_extras/portafolio.png">Desarrollo de portafolio de un producto digital | 18 |
+| 4 | <img width="30px" src="./_extras/arquitectura.png"> Arquitectura de la información (v2) | 32 |
+| 5 | <img width="30px" src="./_extras/interaccion.png"> Diseño de interfaz y de interacción (v2) | 90 |
+| 6 | <img width="30px" src="./_extras/diseno.png"> Fundamentos del diseño visual y desarrollo web (v2) | 100 |
+| 7 | <img width="30px" src="./_extras/portafolio.png"> Desarrollo de portafolio de un producto digital | 18 |
 
 
 **TOTAL DE HORAS**: 402
