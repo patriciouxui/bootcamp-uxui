@@ -10,24 +10,15 @@
 
 - 18-Junio-2024
 
-| tema | autor | descripción | enlace | 
-| - | - | - | - | 
-| Salario | mujeres en ux | Realidad Mercado UX Chile  | https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c | 
-| Salario | talent |  talent uxui | https://cl.talent.com/salary?job=uxui | 
-| Salario | talent |  talent diseñador ux ui | https://cl.talent.com/salary?job=diseñador+ux+ui | 
-| Salario | talent |  talent desarrollador ux ui | https://cl.talent.com/salary?job=desarrollador+ux+ui | 
-| Salario | talent |  talent ux/ui | https://cl.talent.com/salary?job=ux/ui | 
 
-| - | 
-
-| - [**Salario:** mujeres en ux: Realidad Mercado UX Chile](https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c)| 
-| - [**Salario:** promedio talent uxui](https://cl.talent.com/salary?job=uxui)| 
-| - [**Salario:** promedio talent diseñador ux ui](https://cl.talent.com/salary?job=diseñador+ux+ui)| 
-| - [**Salario:** promedio talent desarrollador ux ui](https://cl.talent.com/salary?job=desarrollador+ux+ui)| 
-| - [**Salario:** promedio talent ux/ui](https://cl.talent.com/salary?job=ux/ui)| 
-| - [**Roles:** Los distintos roles dentro del user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)| 
-| - [**Design thinking**: Herramientas en español](https://designthinking.es/)| 
-| - [**Roles:** Mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)| 
+	- [salario - mujeres en ux - realidad mercado UX Chile](https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c)
+	- [salario - talent -  promedio chile uxui](https://cl.talent.com/salary?job=uxui)
+	- [salario - talent -  promedio chile diseñador ux ui](https://cl.talent.com/salary?job=diseñador+ux+ui)
+	- [salario - talent -  promedio chile desarrollador ux ui](https://cl.talent.com/salary?job=desarrollador+ux+ui)
+	- [salario - talent -  promedio chile ux/ui](https://cl.talent.com/salary?job=ux/ui)
+	- [roles - laboratoria - distintos roles en user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
+	- [roles - eduardo aguayo - mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
+	- [design thinking - designthinking.es - Herramientas en español](https://designthinking.es/)
 	- []()
 
 - 19-Junio-2024
