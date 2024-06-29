@@ -36,17 +36,17 @@
 
 - 24-Junio-2024 - m1-s3-metodologia
 
-	- [herramientas - nacho madrid - herramientas de investigacion ux](https://www.nachomadrid.com/2020/09/herramientas-de-investigacion-ux/)
+	- [herramienta - nacho madrid - herramientas de investigacion ux](https://www.nachomadrid.com/2020/09/herramientas-de-investigacion-ux/)
 	- [herramienta - trello - app organización](https://trello.com/)
 	- [herramienta - miró - app organización](https://miro.com/)
+	- [herramienta - chat GPT - app IA](https://chatgpt.com/)
 	- [kanban - businessmap - metodología de organización](https://businessmap.io/es/recursos-de-kanban/primeros-pasos/que-es-kanban)
-	- [canvas - startupeable - business model canvas](https://startupeable.com/glosario/business-model-canvas/)
-	- []()
-	- []()
+	- [canvas model - startupeable - metodología de organización](https://startupeable.com/glosario/business-model-canvas/)
+	- [investigacion ux - eduardo aguayo - investigación generativa y evaluativa ](https://eduardoaguayo.cl/recursos/glosario-ux/tipos-de-investigacion-ux)
 	
 
 - 25-Junio-2024 - m1-s4
-
+	- [herramientas - visualstudio - app desarrollo](https://code.visualstudio.com/)
 	- []()
 
 - 26-Junio-2024 - m2-s01-investigacion_ux
