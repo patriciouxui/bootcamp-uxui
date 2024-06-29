@@ -9,6 +9,13 @@
 **Orientación al perfil y metodología del curso**
 
 - 18-Junio-2024
+	- [Realidad Salarial Mercado UX Chile](https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c)
+	- [promedio salario uxui](https://cl.talent.com/salary?job=uxui)
+	- [promedio salario diseñador ux ui](https://cl.talent.com/salary?job=diseñador+ux+ui)
+	- [promedio salario desarrollador ux ui](https://cl.talent.com/salary?job=desarrollador+ux+ui)
+	- [promedio salario ux/ui](https://cl.talent.com/salary?job=ux/ui)
+	- [Los distintos roles dentro del user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
+	- [Design thinking en español](https://designthinking.es/)
 
 - 19-Junio-2024
 
