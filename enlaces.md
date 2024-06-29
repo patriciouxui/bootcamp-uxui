@@ -21,25 +21,29 @@
 	- [salario - talent -  promedio chile ux/ui](https://cl.talent.com/salary?job=ux/ui)
 	- [roles - laboratoria - distintos roles en user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
 	- [roles - eduardo aguayo - mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
-	- [design thinking - designthinking.es - Herramientas en español](https://designthinking.es/)
+	- [design thinking - designthinking.es - herramientas en español](https://designthinking.es/)
 
 - 19-Junio-2024 - m1-s2-curricula
 
 	- [desarrollo - itechindia - mapa de desarrollo de un producto digital](https://itechindia.co/us/blog/why-are-both-a-ux-designer-and-software-engineer-needed-for-app-build-2/)
-	- [desarrollo - ausum - scrum](https://ausum.cloud/scrum-metodologia-agil-mas-popular-en-empresas/)
-	- [design thinking - think lab - que es ](https://think.cl/como-saber-que-no-es-design-thinking/)
-	- []()
-	- []()
-	- []()
-
-	- [¿Qué Es El Diseño UX?](https://www.youtube.com/watch?v=2PoUw0aBJw0&list=PLNH2lJTFXhRCwD9zhSi6LklA2tYVHvfKr)
-	- [Usabilidad vs Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
-	- [Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
-
+	- [scrum - ausum - elementos scrum](https://ausum.cloud/scrum-metodologia-agil-mas-popular-en-empresas/)
+	- [scrum - donetonic - flujo scrum ](https://donetonic.com/es/pasos-para-configurar-tu-flujo-de-trabajo-scrum/)
+	- [design thinking - think lab - etapas e iteraciones ](https://think.cl/como-saber-que-no-es-design-thinking/)
+	- [empleo - get on board - bolsa de empleo](https://www.getonbrd.com/)
+	- [herramienta - optimal workshop - investigacion ux](https://www.optimalworkshop.com/)
+	- [herramienta - figma - prototipado](https://www.figma.com/)
+	- [herramienta - notion - organización](https://www.notion.so/)
 
 - 24-Junio-2024 - m1-s3-metodologia
 
+	- [herramientas - nacho madrid - herramientas de investigacion ux](https://www.nachomadrid.com/2020/09/herramientas-de-investigacion-ux/)
+	- [herramienta - trello - app organización](https://trello.com/)
+	- [herramienta - miró - app organización](https://miro.com/)
+	- [kanban - businessmap - metodología de organización](https://businessmap.io/es/recursos-de-kanban/primeros-pasos/que-es-kanban)
 	- []()
+	- []()
+	- []()
+	
 
 - 25-Junio-2024 - m1-s4
 
@@ -84,4 +88,12 @@ OK## Módulo 3 - DCU
 
 
 
+
+	- []()
+	- []()
+	- []()
+
+	- [¿Qué Es El Diseño UX?](https://www.youtube.com/watch?v=2PoUw0aBJw0&list=PLNH2lJTFXhRCwD9zhSi6LklA2tYVHvfKr)
+	- [Usabilidad vs Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
+	- [Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
 
