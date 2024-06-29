@@ -8,8 +8,11 @@
 ## Módulo 1 - INTRO
 **Orientación al perfil y metodología del curso**
 
-- 18-Junio-2024
 
+
+
+
+- 18-Junio-2024 - m1-s1-perfil
 
 	- [salario - mujeres en ux - realidad mercado UX Chile](https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c)
 	- [salario - talent -  promedio chile uxui](https://cl.talent.com/salary?job=uxui)
@@ -21,36 +24,42 @@
 	- [design thinking - designthinking.es - Herramientas en español](https://designthinking.es/)
 	- []()
 
-- 19-Junio-2024
+- 19-Junio-2024 - m1-s2-curricula
 
 	- [¿Qué Es El Diseño UX?](https://www.youtube.com/watch?v=2PoUw0aBJw0&list=PLNH2lJTFXhRCwD9zhSi6LklA2tYVHvfKr)
 	- [Usabilidad vs Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
 	- [Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
 
 
-- 24-Junio-2024
+- 24-Junio-2024 - m1-s3-metodologia
+
 	- []()
 
-- 25-Junio-2024
+- 25-Junio-2024 - m1-s4
+
 	- []()
 
-- 26-Junio-2024
+- 26-Junio-2024 - m2-s01-investigacion_ux
+
 	- []()
 
 ## Módulo 2 - UX
 **Métodos de investigación UX**
 
-- 26-Junio-2024
+- 26-Junio-2024 - m2-s01-investigacion_ux
+
 	- []()
 
-- 27-Junio-2024
+- 27-Junio-2024 - m2-s03-metodos_de_research
+
 	- []()
 
-- 28-Junio-2024
+- 28-Junio-2024 - m2-s02-investigacion_ux
+
 	- [WSGN - Tendencias de diseño de productos](https://www.wgsn.com/es)
 	- []()
 
-## Módulo 3 - DCU
+OK## Módulo 3 - DCU
 *Módulo 3 - Fundamentos del diseño centrado en usuarios*
 
 ## Módulo 4 - AI
