@@ -40,7 +40,7 @@
 	- [herramienta - trello - app organización](https://trello.com/)
 	- [herramienta - miró - app organización](https://miro.com/)
 	- [kanban - businessmap - metodología de organización](https://businessmap.io/es/recursos-de-kanban/primeros-pasos/que-es-kanban)
-	- []()
+	- [canvas - startupeable - business model canvas](https://startupeable.com/glosario/business-model-canvas/)
 	- []()
 	- []()
 	
