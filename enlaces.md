@@ -9,13 +9,13 @@
 **Orientación al perfil y metodología del curso**
 
 - 18-Junio-2024
-	- [**Salario:** Realidad Salarial Mercado UX Chile](https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c)
-	- [**Salario:** promedio salario uxui](https://cl.talent.com/salary?job=uxui)
-	- [**Salario:** promedio salario diseñador ux ui](https://cl.talent.com/salary?job=diseñador+ux+ui)
-	- [**Salario:** promedio salario desarrollador ux ui](https://cl.talent.com/salary?job=desarrollador+ux+ui)
-	- [**Salario:** promedio salario ux/ui](https://cl.talent.com/salary?job=ux/ui)
+	- [**Salario:** mujeres en ux: Realidad Mercado UX Chile](https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c)
+	- [**Salario:** promedio talent uxui](https://cl.talent.com/salary?job=uxui)
+	- [**Salario:** promedio talent diseñador ux ui](https://cl.talent.com/salary?job=diseñador+ux+ui)
+	- [**Salario:** promedio talent desarrollador ux ui](https://cl.talent.com/salary?job=desarrollador+ux+ui)
+	- [**Salario:** promedio talent ux/ui](https://cl.talent.com/salary?job=ux/ui)
 	- [**Roles:** Los distintos roles dentro del user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
-	- [Design thinking: en español](https://designthinking.es/)
+	- [**Design thinking**: Herramientas en español](https://designthinking.es/)
 	- [**Roles:** Mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
 	- []()
 
