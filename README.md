@@ -10,26 +10,17 @@ Indice
 
 ---
 1. Plan
-	- <a href="./plan-formativo.md">Plan Formativo</a> 
+	- [Enlaces mencionados en clase y otros](./enlaces.md)
+	- [Plan Formativo](./plan-formativo.md)
 
-
-1. Cursos
-	- <a href="./cursos-certificados.md">Cursos con Certificados</a> 
-	- <a href="./cursos-youtube.md">Cursos en Youtube</a> 
-	- <a href="./cursos-extras.md">Cursos Extras</a> 
+1. Cursos y tutoriales
+	- [Cursos **con Certificados**](cursos-certificados.md)
+	- [Cursos **en Youtube**](cursos-youtube.md)
+	- [Cursos **Diversos**(Design Thinking, Agile, etc)](cursos-extras.md)
 
 1. Comunidades
-	- <a href="./comunidades.md">Comunidades UXUI y Diseño</a> 
-	- <a href="./podcast.md">Podcasts</a> 
+	- [Comunidades UXUI y Diseño](./comunidades.md)
+	- [Podcasts](./podcast.md)
 
-1. Recursos
-	 - <a href="./recursos.md">Recursos</a> 
-	 - <a href="./herramientas.md">Herramientas</a> 
-
-
-
-1. Notas
-	- <a href="./post-it.md">Post-it</a> 
-
-
-
+1. Herramientas
+	- [Herraminetas-](./herramientas.md)
