@@ -13,6 +13,10 @@
 | tema | autor | descripción | enlace | 
 | - | - | - | - | 
 | Salario | mujeres en ux | Realidad Mercado UX Chile  | https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c | 
+| Salario | talent |  talent uxui | https://cl.talent.com/salary?job=uxui | 
+| Salario | talent |  talent diseñador ux ui | https://cl.talent.com/salary?job=diseñador+ux+ui | 
+| Salario | talent |  talent desarrollador ux ui | https://cl.talent.com/salary?job=desarrollador+ux+ui | 
+| Salario | talent |  talent ux/ui | https://cl.talent.com/salary?job=ux/ui | 
 
 | - | 
 
