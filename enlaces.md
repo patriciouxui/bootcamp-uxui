@@ -21,6 +21,7 @@
 	- [salario - talent -  promedio chile ux/ui](https://cl.talent.com/salary?job=ux/ui)
 	- [roles - laboratoria - distintos roles en user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
 	- [roles - eduardo aguayo - mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
+	- [roles - laboratoria - front-end y back-end](https://hub.laboratoria.la/front-end-vs-back-end-cual-es-la-diferencia)
 	- [design thinking - designthinking.es - herramientas en español](https://designthinking.es/)
 
 - 19-Junio-2024 - m1-s2-curricula
@@ -46,7 +47,8 @@
 	
 
 - 25-Junio-2024 - m1-s4
-	- [herramientas - visualstudio - app desarrollo](https://code.visualstudio.com/)
+	- [herramienta - visualstudio - app desarrollo](https://code.visualstudio.com/)
+	- [herramienta - tecnocratica - control de versiones GIT](https://tecnocratica.net/git-desarrollo-software/)
 	- []()
 
 - 26-Junio-2024 - m2-s01-investigacion_ux
