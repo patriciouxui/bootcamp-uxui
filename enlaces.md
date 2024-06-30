@@ -54,8 +54,15 @@
 - 25-Junio-2024 - m1-s4
 	- [herramienta - visualstudio - app desarrollo](https://code.visualstudio.com/)
 	- [herramienta - tecnocratica - control de versiones GIT](https://tecnocratica.net/git-desarrollo-software/)
-	- [desarrollo - donpablo - html, css y javascript](https://www.youtube.com/watch?v=5NUoMo7ZcC0)
-	- [desarrollo - 42madrid - escribor codigo en fondo oscuro](https://www.42madrid.com/actualidad/atraidos-por-el-lado-oscuro-de-la-pantalla-dark-mode-programadores/#:~:text=Alrededor%20del%2070%25%20de%20los,m%C3%A1s%20atenci%C3%B3n%20en%20la%20pantalla.)
+	- [código - donpablo - html, css y javascript](https://www.youtube.com/watch?v=5NUoMo7ZcC0)
+	- [código - 42madrid - escribir código en fondo oscuro](https://www.42madrid.com/actualidad/atraidos-por-el-lado-oscuro-de-la-pantalla-dark-mode-programadores/#:~:text=Alrededor%20del%2070%25%20de%20los,m%C3%A1s%20atenci%C3%B3n%20en%20la%20pantalla.)
+	- [html - disenowebakus - estructura](https://disenowebakus.net/domine-html-y-dhtml-primeros-pasos.php#google_vignette)
+	- extra [html - ionos - etiquetas](https://www.ionos.com/es-us/digitalguide/paginas-web/desarrollo-web/html-tags/)
+	- extra [html - w3School - colores](https://www.w3schools.com/html/html_colors.asp)
+	- [css - google fonts - tipografías](https://fonts.google.com/)
+	- extra [wordpress - Academia de Hostinger - qué es wordpress](https://www.youtube.com/watch?v=Yp_HroRM6rw)
+	- landing page[landing page - site labs - qué es ](https://sitelabs.es/que-es-una-landing-page-10-ejemplos-efectivos/)
+
 - 26-Junio-2024 - m2-s01-investigacion_ux
 
 	- []()
