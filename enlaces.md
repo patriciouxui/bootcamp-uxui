@@ -34,7 +34,6 @@
 	- [herramienta - optimal workshop - investigacion ux](https://www.optimalworkshop.com/)
 	- [herramienta - figma - prototipado](https://www.figma.com/)
 	- [herramienta - notion - organización](https://www.notion.so/)
-
 	- extra [curso - JonasSuarez - diseño UX](https://www.youtube.com/watch?v=2PoUw0aBJw0&list=PLNH2lJTFXhRCwD9zhSi6LklA2tYVHvfKr)
 	- extra [UX - Instituto de Marketing Agil - Usabilidad y Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
 	- extra [curso - Tutoriales de bolsillo - Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
