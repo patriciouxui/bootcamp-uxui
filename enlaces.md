@@ -72,16 +72,6 @@
 	- [historia ux - archdaily - SYNCO](https://www.archdaily.cl/cl/879451/proyecto-synco-las-ideas-de-vanguardia-detras-del-mitico-proyecto-de-salvador-allende)
 	- [historia ux - warner bross - sitio web de spacejam de 1996](https://www.spacejam.com/1996/)
 	- [historia ux - catalasjuin - CompuMundoHiperMegaRed sitio web de Homero Simpson](https://www.catalasjuin.com/homerswebpage/)
-	- [ux - anaivars - mapa de empatía](https://anaivars.com/mapa-de-empatia/)
-	- [ux - innokabi - mapa de empatía](https://innokabi.com/mapa-de-empatia-zoom-en-tu-segmento-de-cliente/)
-	- [ux - escala - customer journey map](https://escala.com/marketing/customer-journey-map)
-	- extra [historia ux - webdesignmuseum - historia diseño web](https://www.webdesignmuseum.org/web-design-history)
-	- extra [historia ux - webdesignmuseum - primeros sitios web](https://www.webdesignmuseum.org/early-websites)
-	- extra [historia ux - webdesignmuseum - web 90s](https://www.webdesignmuseum.org/web-design-in-the-90s)
-	- extra [historia ux - webdesignmuseum - web epoca de oro](https://www.webdesignmuseum.org/golden-age-of-web-design)
-	- extra [historia ux - webdesignmuseum - web comienzo css](https://www.webdesignmuseum.org/css-layout-pioneers)
-	- extra [historia ux - webdesignmuseum - web flash](https://www.webdesignmuseum.org/flash-websites)
-	- extra []()
 	- extra [historia ux - Eden Medina - SYNCO y Revolucionarios Cibernéticos](https://www.youtube.com/watch?v=9a2R2dxlHVY)
 	- extra [design thinking - designthinking.es - intro](https://designthinking.es/que-es-design-thinking/)
 	- extra [design thinking - design thinking españa - que es](https://xn--designthinkingespaa-d4b.com/)
@@ -93,11 +83,22 @@
 
 - 26-Junio-2024 - m2-s01-investigacion_ux
 
+	- [ux - anaivars - mapa de empatía](https://anaivars.com/mapa-de-empatia/)
+	- [ux - innokabi - mapa de empatía](https://innokabi.com/mapa-de-empatia-zoom-en-tu-segmento-de-cliente/)
+	- [ux - escala - customer journey map](https://escala.com/marketing/customer-journey-map)
+	- extra [historia ux - webdesignmuseum - historia diseño web](https://www.webdesignmuseum.org/web-design-history)
+	- extra [historia ux - webdesignmuseum - primeros sitios web](https://www.webdesignmuseum.org/early-websites)
+	- extra [historia ux - webdesignmuseum - web 90s](https://www.webdesignmuseum.org/web-design-in-the-90s)
+	- extra [historia ux - webdesignmuseum - web epoca de oro](https://www.webdesignmuseum.org/golden-age-of-web-design)
+	- extra [historia ux - webdesignmuseum - web comienzo css](https://www.webdesignmuseum.org/css-layout-pioneers)
+	- extra [historia ux - webdesignmuseum - web flash](https://www.webdesignmuseum.org/flash-websites)
+	- extra []()
+
 	- []()
 
 - 27-Junio-2024 - m2-s03-metodos_de_research
 
-	- []()
+	- [datos - iebschool - google analytics 4](https://www.iebschool.com/blog/google-analytics-4-todo-lo-que-tienes-que-saber-analitica-usabilidad/)
 
 - 28-Junio-2024 - m2-s02-investigacion_ux
 
