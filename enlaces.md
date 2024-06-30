@@ -61,7 +61,7 @@
 	- extra [html - w3School - colores](https://www.w3schools.com/html/html_colors.asp)
 	- [css - google fonts - tipografías](https://fonts.google.com/)
 	- extra [wordpress - Academia de Hostinger - qué es wordpress](https://www.youtube.com/watch?v=Yp_HroRM6rw)
-	- landing page[landing page - site labs - qué es ](https://sitelabs.es/que-es-una-landing-page-10-ejemplos-efectivos/)
+	- [landing page - site labs - qué es ](https://sitelabs.es/que-es-una-landing-page-10-ejemplos-efectivos/)
 
 - 26-Junio-2024 - m2-s01-investigacion_ux
 
