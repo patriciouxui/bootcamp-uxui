@@ -12,7 +12,7 @@
 
 
 
-- 18-Junio-2024 - m1-s1-perfil
+- 18-06-24 - Martes - m1-s1-perfil
 
 	- [roles - laboratoria - distintos roles en user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
 	- [roles - eduardo aguayo - mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
@@ -24,7 +24,7 @@
 	- [salario - talent -  promedio chile desarrollador ux ui](https://cl.talent.com/salary?job=desarrollador+ux+ui)
 	- [salario - talent -  promedio chile ux/ui](https://cl.talent.com/salary?job=ux/ui)
 		
-- 19-Junio-2024 - m1-s2-curricula
+- 19-06-24 - Miércoles - m1-s2-curricula
 
 	- [desarrollo - itechindia - mapa de desarrollo de un producto digital](https://itechindia.co/us/blog/why-are-both-a-ux-designer-and-software-engineer-needed-for-app-build-2/)
 	- [scrum - ausum - elementos scrum](https://ausum.cloud/scrum-metodologia-agil-mas-popular-en-empresas/)
@@ -38,7 +38,12 @@
 	- extra [curso - Tutoriales de bolsillo - Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
 	- extra [ux - Instituto de Marketing Agil - Usabilidad y Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
 
-- 24-Junio-2024 - m1-s3-metodologia
+
+
+----FESTIVO + INTERFERIADO + FIN DE SEMANA----
+
+
+- 24-06-24 - Lunes - m1-s3-metodologia
 
 	- [herramienta - nacho madrid - herramientas de investigacion ux](https://www.nachomadrid.com/2020/09/herramientas-de-investigacion-ux/)
 	- [herramienta - trello - app organización](https://trello.com/)
@@ -49,7 +54,7 @@
 	- [ux - eduardo aguayo - investigación generativa y evaluativa ](https://eduardoaguayo.cl/recursos/glosario-ux/tipos-de-investigacion-ux)
 	
 
-- 25-Junio-2024 - m1-s4
+- 25-06-24 - Martes - m1-s4
 	- [herramienta - visualstudio - app desarrollo](https://code.visualstudio.com/)
 	- [herramienta - tecnocratica - control de versiones GIT](https://tecnocratica.net/git-desarrollo-software/)
 	- [código - donpablo - html, css y javascript](https://www.youtube.com/watch?v=5NUoMo7ZcC0)
@@ -61,7 +66,7 @@
 	- extra [html - w3school - colores](https://www.w3schools.com/html/html_colors.asp)
 	- extra [wordpress - Academia de Hostinger - qué es wordpress](https://www.youtube.com/watch?v=Yp_HroRM6rw)
 
-- 26-Junio-2024 - m2-s01-investigacion_ux
+- 26-06-24 - Miércoles - m2-s01-investigacion_ux
 
 	- [landing page - antevenio - elementos](https://www.antevenio.com/blog/2017/10/elementos-esenciales-de-una-landing-page-exitosa/)
 	- [landing page - mailrelay - ejemplos](https://mailrelay.com/es/blog/2021/05/11/como-crear-landing-page-perfecta-ejemplos/)
@@ -81,7 +86,7 @@
 ## Módulo 2 - UX
 **Métodos de investigación UX**
 
-- 26-Junio-2024 - m2-s01-investigacion_ux
+- 26-06-24 - Miércoles - m2-s01-investigacion_ux
 
 	- [ux - anaivars - mapa de empatía](https://anaivars.com/mapa-de-empatia/)
 	- [ux - innokabi - mapa de empatía](https://innokabi.com/mapa-de-empatia-zoom-en-tu-segmento-de-cliente/)
@@ -92,11 +97,8 @@
 	- extra [historia ux - webdesignmuseum - web epoca de oro](https://www.webdesignmuseum.org/golden-age-of-web-design)
 	- extra [historia ux - webdesignmuseum - web comienzo css](https://www.webdesignmuseum.org/css-layout-pioneers)
 	- extra [historia ux - webdesignmuseum - web flash](https://www.webdesignmuseum.org/flash-websites)
-	- extra []()
 
-	- []()
-
-- 27-Junio-2024 - m2-s03-metodos_de_research
+- 27-06-24 - Jueves - m2-s02-metodos_de_research
 
 	- [datos - iebschool - google analytics 4](https://www.iebschool.com/blog/google-analytics-4-todo-lo-que-tienes-que-saber-analitica-usabilidad/)
 	- [arquetipos - soyunamarca - 12 arquetipos de marca](https://www.soyunamarca.com/12-arquetipos-para-dar-personalidad-a-una-marca-en-social-media-branding/)
@@ -104,7 +106,7 @@
 	- [arquetipos - neuroquotient - MBTI](https://neuroquotient.com/indicador-mbti-indicador-de-tipos-psicologicos-de-myers-briggs-herramientas-7/)
 	- [arquetipos - 16personalities - MBTI](https://www.16personalities.com/es/descripcion-de-los-tipos)
 
-- 28-Junio-2024 - m2-s02-investigacion_ux
+- 28-06-24 - Viernes - m2-s03-investigacion_ux
 
 	- [markdown - markdown.es - qué es ](https://markdown.es/)
 	- [markdown - markdown.es - sintaxis ](https://markdown.es/sintaxis-markdown/)
@@ -123,9 +125,36 @@
 	- extra [markdown - markdown.es - editor ](https://stackedit.io/app#)
 	- extra [ux - venngage - buyer personas ](https://www.hubspot.es/make-my-persona/persona-ejemplos)
 
-<!-- 
+----FIN DE SEMANA----
+
+- 01-06-24 - Lunes - m2-s04-investigacion_ux
+
+- 02-06-24 - Martes - m2-s05
+
+- 03-06-24 - Miércoles - m2-s06
+
+- 04-06-24 - Jueves - m2-s07
+
+- 05-06-24 - Viernes - m2-s08
+
+----FIN DE SEMANA----
+
+- 08-06-24 - Lunes - m2-s09
+
+- 09-06-24 - Martes - m2-s10
+
+- 10-06-24 - Miércoles - m2-s11
+
+- 11-06-24 - Jueves - m2-s12
+
+- 12-06-24 - Viernes - m2-s13
+
+----INTERFERIADO + FESTIVO + FIN DE SEMANA----
+
 ## Módulo 3 - DCU
 *Módulo 3 - Fundamentos del diseño centrado en usuarios*
+
+<!-- 
 
 ## Módulo 4 - AI
 *Módulo 4 - Arquitectura de la información*
