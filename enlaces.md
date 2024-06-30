@@ -40,7 +40,7 @@
 
 
 
-----FESTIVO + INTERFERIADO + FIN DE SEMANA----
+--- FESTIVO + INTERFERIADO + FIN DE SEMANA --- 
 
 
 - 24-06-24 - Lunes - m1-s3-metodologia
@@ -125,7 +125,7 @@
 	- extra [markdown - markdown.es - editor ](https://stackedit.io/app#)
 	- extra [ux - venngage - buyer personas ](https://www.hubspot.es/make-my-persona/persona-ejemplos)
 
-----FIN DE SEMANA----
+--- FIN DE SEMANA --- 
 
 - 01-06-24 - Lunes - m2-s04-investigacion_ux
 
@@ -137,7 +137,7 @@
 
 - 05-06-24 - Viernes - m2-s08
 
-----FIN DE SEMANA----
+--- FIN DE SEMANA ---
 
 - 08-06-24 - Lunes - m2-s09
 
@@ -149,12 +149,10 @@
 
 - 12-06-24 - Viernes - m2-s13
 
-----INTERFERIADO + FESTIVO + FIN DE SEMANA----
+--- FIN DE SEMANA + INTERFERIADO + FESTIVO --- 
 
 ## Módulo 3 - DCU
 *Módulo 3 - Fundamentos del diseño centrado en usuarios*
-
-<!-- 
 
 ## Módulo 4 - AI
 *Módulo 4 - Arquitectura de la información*
@@ -167,6 +165,8 @@
 
 ## Módulo 7 - PORTAFOLIO
 *Módulo 7 - Desarrollo de portafolio de un producto digital*
+
+<!-- 
 
 
 
