@@ -14,15 +14,15 @@
 
 - 18-Junio-2024 - m1-s1-perfil
 
+	- [roles - laboratoria - distintos roles en user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
+	- [roles - eduardo aguayo - mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
+	- [roles - laboratoria - front-end y back-end](https://hub.laboratoria.la/front-end-vs-back-end-cual-es-la-diferencia)
+	- [design thinking - designthinking.es - herramientas en español](https://designthinking.es/)
 	- [salario - mujeres en ux - realidad mercado UX Chile](https://medium.com/m%C3%A1s-mujeres-en-ux/realidad-salarial-mercado-ux-chile-parte-i-333880ce300c)
 	- [salario - talent -  promedio chile uxui](https://cl.talent.com/salary?job=uxui)
 	- [salario - talent -  promedio chile diseñador ux ui](https://cl.talent.com/salary?job=diseñador+ux+ui)
 	- [salario - talent -  promedio chile desarrollador ux ui](https://cl.talent.com/salary?job=desarrollador+ux+ui)
 	- [salario - talent -  promedio chile ux/ui](https://cl.talent.com/salary?job=ux/ui)
-	- [roles - laboratoria - distintos roles en user experience](https://medium.com/laboratoria/los-distintos-roles-dentro-del-user-experience-ux-601706d578aa)
-	- [roles - eduardo aguayo - mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
-	- [roles - laboratoria - front-end y back-end](https://hub.laboratoria.la/front-end-vs-back-end-cual-es-la-diferencia)
-	- [design thinking - designthinking.es - herramientas en español](https://designthinking.es/)
 		
 - 19-Junio-2024 - m1-s2-curricula
 
@@ -35,10 +35,8 @@
 	- [herramienta - figma - prototipado](https://www.figma.com/)
 	- [herramienta - notion - organización](https://www.notion.so/)
 	- extra [curso - JonasSuarez - diseño UX](https://www.youtube.com/watch?v=2PoUw0aBJw0&list=PLNH2lJTFXhRCwD9zhSi6LklA2tYVHvfKr)
-	- extra [UX - Instituto de Marketing Agil - Usabilidad y Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
 	- extra [curso - Tutoriales de bolsillo - Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
-
-
+	- extra [ux - Instituto de Marketing Agil - Usabilidad y Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
 
 - 24-Junio-2024 - m1-s3-metodologia
 
@@ -48,7 +46,7 @@
 	- [herramienta - chat GPT - app IA](https://chatgpt.com/)
 	- [kanban - businessmap - metodología de organización](https://businessmap.io/es/recursos-de-kanban/primeros-pasos/que-es-kanban)
 	- [canvas model - startupeable - metodología de organización](https://startupeable.com/glosario/business-model-canvas/)
-	- [investigacion ux - eduardo aguayo - investigación generativa y evaluativa ](https://eduardoaguayo.cl/recursos/glosario-ux/tipos-de-investigacion-ux)
+	- [ux - eduardo aguayo - investigación generativa y evaluativa ](https://eduardoaguayo.cl/recursos/glosario-ux/tipos-de-investigacion-ux)
 	
 
 - 25-Junio-2024 - m1-s4
@@ -57,17 +55,18 @@
 	- [código - donpablo - html, css y javascript](https://www.youtube.com/watch?v=5NUoMo7ZcC0)
 	- [código - 42madrid - escribir código en fondo oscuro](https://www.42madrid.com/actualidad/atraidos-por-el-lado-oscuro-de-la-pantalla-dark-mode-programadores/#:~:text=Alrededor%20del%2070%25%20de%20los,m%C3%A1s%20atenci%C3%B3n%20en%20la%20pantalla.)
 	- [html - disenowebakus - estructura](https://disenowebakus.net/domine-html-y-dhtml-primeros-pasos.php#google_vignette)
+	- [css - google fonts - tipografías](https://fonts.google.com/)
+	- [landing page - site labs - qué es ](https://sitelabs.es/que-es-una-landing-page-10-ejemplos-efectivos/)
 	- extra [html - ionos - etiquetas](https://www.ionos.com/es-us/digitalguide/paginas-web/desarrollo-web/html-tags/)
 	- extra [html - w3school - colores](https://www.w3schools.com/html/html_colors.asp)
-	- [css - google fonts - tipografías](https://fonts.google.com/)
-
 	- extra [wordpress - Academia de Hostinger - qué es wordpress](https://www.youtube.com/watch?v=Yp_HroRM6rw)
-	- [landing page - site labs - qué es ](https://sitelabs.es/que-es-una-landing-page-10-ejemplos-efectivos/)
-
 
 - 26-Junio-2024 - m2-s01-investigacion_ux
 
 	- [landing page - antevenio - elementos](https://www.antevenio.com/blog/2017/10/elementos-esenciales-de-una-landing-page-exitosa/)
+	- [landing page - mailrelay - ejemplos](https://mailrelay.com/es/blog/2021/05/11/como-crear-landing-page-perfecta-ejemplos/)
+	- [landing page - oinkmygod - estructura](https://oinkmygod.com/blog/landing-page-perfecta/)
+	- [bootcamp - patriciouxui - contenidos bootcamp](https://docs.google.com/spreadsheets/d/1_Og2uLQhyfLLyIGhQivjM7YLubuEVN7tT0xd_AK6pqo/edit?usp=sharing)
 
 ## Módulo 2 - UX
 **Métodos de investigación UX**
