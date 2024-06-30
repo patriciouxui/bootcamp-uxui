@@ -129,6 +129,9 @@
 
 - 01-06-24 - Lunes - m2-s04-investigacion_ux
 
+
+<!-- 
+
 - 02-06-24 - Martes - m2-s05
 
 - 03-06-24 - Miércoles - m2-s06
@@ -165,8 +168,6 @@
 
 ## Módulo 7 - PORTAFOLIO
 *Módulo 7 - Desarrollo de portafolio de un producto digital*
-
-<!-- 
 
 
 
