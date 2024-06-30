@@ -23,7 +23,7 @@
 	- [roles - eduardo aguayo - mapa ixd y uxui](https://eduardoaguayo.cl/blog/ixd-o-ux-ui)
 	- [roles - laboratoria - front-end y back-end](https://hub.laboratoria.la/front-end-vs-back-end-cual-es-la-diferencia)
 	- [design thinking - designthinking.es - herramientas en español](https://designthinking.es/)
-
+		
 - 19-Junio-2024 - m1-s2-curricula
 
 	- [desarrollo - itechindia - mapa de desarrollo de un producto digital](https://itechindia.co/us/blog/why-are-both-a-ux-designer-and-software-engineer-needed-for-app-build-2/)
@@ -34,6 +34,12 @@
 	- [herramienta - optimal workshop - investigacion ux](https://www.optimalworkshop.com/)
 	- [herramienta - figma - prototipado](https://www.figma.com/)
 	- [herramienta - notion - organización](https://www.notion.so/)
+
+	- extra [curso - JonasSuarez - diseño UX](https://www.youtube.com/watch?v=2PoUw0aBJw0&list=PLNH2lJTFXhRCwD9zhSi6LklA2tYVHvfKr)
+	- extra [UX - Instituto de Marketing Agil - Usabilidad y Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
+	- extra [curso - Tutoriales de bolsillo - Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
+
+
 
 - 24-Junio-2024 - m1-s3-metodologia
 
@@ -49,8 +55,8 @@
 - 25-Junio-2024 - m1-s4
 	- [herramienta - visualstudio - app desarrollo](https://code.visualstudio.com/)
 	- [herramienta - tecnocratica - control de versiones GIT](https://tecnocratica.net/git-desarrollo-software/)
-	- []()
-
+	- [desarrollo - donpablo - html, css y javascript](https://www.youtube.com/watch?v=5NUoMo7ZcC0)
+	- [desarrollo - 42madrid - escribor codigo en fondo oscuro](https://www.42madrid.com/actualidad/atraidos-por-el-lado-oscuro-de-la-pantalla-dark-mode-programadores/#:~:text=Alrededor%20del%2070%25%20de%20los,m%C3%A1s%20atenci%C3%B3n%20en%20la%20pantalla.)
 - 26-Junio-2024 - m2-s01-investigacion_ux
 
 	- []()
@@ -88,14 +94,11 @@ OK## Módulo 3 - DCU
 
 
 
-
-
-
+<!-- 
 	- []()
 	- []()
 	- []()
 
-	- [¿Qué Es El Diseño UX?](https://www.youtube.com/watch?v=2PoUw0aBJw0&list=PLNH2lJTFXhRCwD9zhSi6LklA2tYVHvfKr)
-	- [Usabilidad vs Experiencia de Usuario](https://www.youtube.com/watch?v=V4islcJoljo)
-	- [Figma en 6 minutos](https://www.youtube.com/watch?v=JMMmL9859iA)
+	
 
+ -->
