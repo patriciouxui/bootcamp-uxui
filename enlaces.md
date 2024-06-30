@@ -106,10 +106,25 @@
 
 - 28-Junio-2024 - m2-s02-investigacion_ux
 
+	- [markdown - markdown.es - qué es ](https://markdown.es/)
+	- [markdown - markdown.es - sintaxis ](https://markdown.es/sintaxis-markdown/)
+	- [markdown - markdown.es - editor ](https://dillinger.io/)
+	- [html - fazt - Curso HTML para Principiantes ](https://www.youtube.com/watch?v=rbuYtrNUxg4)
+	- [css - fazt - Curso CSS para Principiantes ](https://www.youtube.com/watch?v=W6GTDfrWjXs)
+	- [excel - stl-training - excel art](https://www.stl-training.co.uk/b/spreadsheet-art-10-of-the-best/)
+	- [herramienta - google - google forms](https://docs.google.com/forms/u/0/)
+	- [herramienta - google - google spreadsheet](https://docs.google.com/spreadsheets/u/0/)
+	- [herramienta - google - IA gemini](https://gemini.google.com/)
+	- [ux - venngage - user persona ](https://es.venngage.com/blog/user-persona/)
+	- [ux - iebschool - test a/b ](https://www.iebschool.com/blog/que-es-el-test-a-b-analitica-usabilidad/)
+	- [herramienta - google - google trends ](https://trends.google.com/trends/)
 	- [WSGN - Tendencias de diseño de productos](https://www.wgsn.com/es)
-	- []()
+	- extra [markdown - markdown.es - editor ](https://editormarkdown.com/)
+	- extra [markdown - markdown.es - editor ](https://stackedit.io/app#)
+	- extra [ux - venngage - buyer personas ](https://www.hubspot.es/make-my-persona/persona-ejemplos)
 
-OK## Módulo 3 - DCU
+<!-- 
+## Módulo 3 - DCU
 *Módulo 3 - Fundamentos del diseño centrado en usuarios*
 
 ## Módulo 4 - AI
@@ -126,7 +141,6 @@ OK## Módulo 3 - DCU
 
 
 
-<!-- 
 	- []()
 	- []()
 	- []()
