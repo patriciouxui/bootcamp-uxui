@@ -67,6 +67,10 @@
 	- [landing page - mailrelay - ejemplos](https://mailrelay.com/es/blog/2021/05/11/como-crear-landing-page-perfecta-ejemplos/)
 	- [landing page - oinkmygod - estructura](https://oinkmygod.com/blog/landing-page-perfecta/)
 	- [bootcamp - patriciouxui - contenidos bootcamp](https://docs.google.com/spreadsheets/d/1_Og2uLQhyfLLyIGhQivjM7YLubuEVN7tT0xd_AK6pqo/edit?usp=sharing)
+	- extra [design thinking - designthinking.es - intro](https://designthinking.es/que-es-design-thinking/)
+	- extra [design thinking - design thinking españa - que es](https://xn--designthinkingespaa-d4b.com/)
+	- extra [design thinking - stanford institute design - mini guía](https://guiaiso50001.cl/guia/wp-content/uploads/2017/04/guia-proceso-creativo.pdf)
+	- extra [curso - Judit Güell - notion](https://www.youtube.com/watch?v=Eb7kheg-WC0)
 
 ## Módulo 2 - UX
 **Métodos de investigación UX**
