@@ -99,6 +99,10 @@
 - 27-Junio-2024 - m2-s03-metodos_de_research
 
 	- [datos - iebschool - google analytics 4](https://www.iebschool.com/blog/google-analytics-4-todo-lo-que-tienes-que-saber-analitica-usabilidad/)
+	- [arquetipos - soyunamarca - 12 arquetipos de marca](https://www.soyunamarca.com/12-arquetipos-para-dar-personalidad-a-una-marca-en-social-media-branding/)
+	- [arquetipos - dazzet - 12 arquetipos de marca](https://dazzet.co/que-es/arquetipo-de-marca/)
+	- [arquetipos - neuroquotient - MBTI](https://neuroquotient.com/indicador-mbti-indicador-de-tipos-psicologicos-de-myers-briggs-herramientas-7/)
+	- [arquetipos - 16personalities - MBTI](https://www.16personalities.com/es/descripcion-de-los-tipos)
 
 - 28-Junio-2024 - m2-s02-investigacion_ux
 
