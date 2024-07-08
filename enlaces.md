@@ -28,8 +28,8 @@
 
 	- [desarrollo - itechindia - mapa de desarrollo de un producto digital](https://itechindia.co/us/blog/why-are-both-a-ux-designer-and-software-engineer-needed-for-app-build-2/)
 	- [scrum - ausum - elementos scrum](https://ausum.cloud/scrum-metodologia-agil-mas-popular-en-empresas/)
-	- [scrum - donetonic - flujo scrum ](https://donetonic.com/es/pasos-para-configurar-tu-flujo-de-trabajo-scrum/)
-	- [design thinking - think lab - etapas e iteraciones ](https://think.cl/como-saber-que-no-es-design-thinking/)
+	- [scrum - donetonic - flujo scrum](https://donetonic.com/es/pasos-para-configurar-tu-flujo-de-trabajo-scrum/)
+	- [design thinking - think lab - etapas e iteraciones](https://think.cl/como-saber-que-no-es-design-thinking/)
 	- [empleo - get on board - bolsa de empleo](https://www.getonbrd.com/)
 	- [herramienta - optimal workshop - investigacion ux](https://www.optimalworkshop.com/)
 	- [herramienta - figma - prototipado](https://www.figma.com/)
@@ -51,7 +51,7 @@
 	- [herramienta - chat GPT - app IA](https://chatgpt.com/)
 	- [kanban - businessmap - metodología de organización](https://businessmap.io/es/recursos-de-kanban/primeros-pasos/que-es-kanban)
 	- [canvas model - startupeable - metodología de organización](https://startupeable.com/glosario/business-model-canvas/)
-	- [ux - eduardo aguayo - investigación generativa y evaluativa ](https://eduardoaguayo.cl/recursos/glosario-ux/tipos-de-investigacion-ux)
+	- [ux - eduardo aguayo - investigación generativa y evaluativa](https://eduardoaguayo.cl/recursos/glosario-ux/tipos-de-investigacion-ux)
 	
 
 - 25-06-24 - Martes - m1-s4
@@ -61,7 +61,7 @@
 	- [código - 42madrid - escribir código en fondo oscuro](https://www.42madrid.com/actualidad/atraidos-por-el-lado-oscuro-de-la-pantalla-dark-mode-programadores/#:~:text=Alrededor%20del%2070%25%20de%20los,m%C3%A1s%20atenci%C3%B3n%20en%20la%20pantalla.)
 	- [html - disenowebakus - estructura](https://disenowebakus.net/domine-html-y-dhtml-primeros-pasos.php#google_vignette)
 	- [css - google fonts - tipografías](https://fonts.google.com/)
-	- [landing page - site labs - qué es ](https://sitelabs.es/que-es-una-landing-page-10-ejemplos-efectivos/)
+	- [landing page - site labs - qué es](https://sitelabs.es/que-es-una-landing-page-10-ejemplos-efectivos/)
 	- extra [html - ionos - etiquetas](https://www.ionos.com/es-us/digitalguide/paginas-web/desarrollo-web/html-tags/)
 	- extra [html - w3school - colores](https://www.w3schools.com/html/html_colors.asp)
 	- extra [wordpress - Academia de Hostinger - qué es wordpress](https://www.youtube.com/watch?v=Yp_HroRM6rw)
@@ -108,60 +108,100 @@
 
 - 28-06-24 - Viernes - m2-s03-investigacion_ux
 
-	- [markdown - markdown.es - qué es ](https://markdown.es/)
-	- [markdown - markdown.es - sintaxis ](https://markdown.es/sintaxis-markdown/)
-	- [markdown - markdown.es - editor ](https://dillinger.io/)
-	- [html - fazt - Curso HTML para Principiantes ](https://www.youtube.com/watch?v=rbuYtrNUxg4)
-	- [css - fazt - Curso CSS para Principiantes ](https://www.youtube.com/watch?v=W6GTDfrWjXs)
+	- [markdown - markdown.es - qué es](https://markdown.es/)
+	- [markdown - markdown.es - sintaxis](https://markdown.es/sintaxis-markdown/)
+	- [markdown - markdown.es - editor](https://dillinger.io/)
+	- [html - fazt - Curso HTML para Principiantes](https://www.youtube.com/watch?v=rbuYtrNUxg4)
+	- [css - fazt - Curso CSS para Principiantes](https://www.youtube.com/watch?v=W6GTDfrWjXs)
 	- [excel - stl-training - excel art](https://www.stl-training.co.uk/b/spreadsheet-art-10-of-the-best/)
 	- [herramienta - google - google forms](https://docs.google.com/forms/u/0/)
 	- [herramienta - google - google spreadsheet](https://docs.google.com/spreadsheets/u/0/)
 	- [herramienta - google - IA gemini](https://gemini.google.com/)
-	- [ux - venngage - user persona ](https://es.venngage.com/blog/user-persona/)
-	- [ux - iebschool - test a/b ](https://www.iebschool.com/blog/que-es-el-test-a-b-analitica-usabilidad/)
-	- [herramienta - google - google trends ](https://trends.google.com/trends/)
+	- [ux - venngage - user persona](https://es.venngage.com/blog/user-persona/)
+	- [ux - iebschool - test a/b](https://www.iebschool.com/blog/que-es-el-test-a-b-analitica-usabilidad/)
+	- [herramienta - google - google trends](https://trends.google.com/trends/)
 	- [WSGN - Tendencias de diseño de productos](https://www.wgsn.com/es)
-	- extra [markdown - markdown.es - editor ](https://editormarkdown.com/)
-	- extra [markdown - markdown.es - editor ](https://stackedit.io/app#)
-	- extra [ux - venngage - buyer personas ](https://www.hubspot.es/make-my-persona/persona-ejemplos)
+	- extra [markdown - markdown.es - editor](https://editormarkdown.com/)
+	- extra [markdown - markdown.es - editor](https://stackedit.io/app#)
+	- extra [ux - venngage - buyer personas](https://www.hubspot.es/make-my-persona/persona-ejemplos)
 
 --- FIN DE SEMANA --- 
 
-- 01-06-24 - Lunes - m2-s04-investigacion_ux
+- 01-07-24 - Lunes - m2-s04-investigacion_ux
 
+- 02-07-24 - Martes - m2-s05
 
-<!-- 
+- 03-07-24 - Miércoles - m2-s06
 
-- 02-06-24 - Martes - m2-s05
+- 04-07-24 - Jueves - m2-s07
 
-- 03-06-24 - Miércoles - m2-s06
-
-- 04-06-24 - Jueves - m2-s07
-
-- 05-06-24 - Viernes - m2-s08
+- 05-07-24 - Viernes - m2-s08
 
 --- FIN DE SEMANA ---
 
-- 08-06-24 - Lunes - m2-s09
+- 08-07-24 - Lunes - m2-s09
 
-- 09-06-24 - Martes - m2-s10
+- 09-07-24 - Martes - m2-s10
 
-- 10-06-24 - Miércoles - m2-s11
+- 10-07-24 - Miércoles - m2-s11
 
-- 11-06-24 - Jueves - m2-s12
+- 11-07-24 - Jueves - m2-s12
 
-- 12-06-24 - Viernes - m2-s13
+- 12-07-24 - Viernes - m2-s13
 
 --- FIN DE SEMANA + INTERFERIADO + FESTIVO --- 
 
 ## Módulo 3 - DCU
 *Módulo 3 - Fundamentos del diseño centrado en usuarios*
 
+- 17-07-24 - Miércoles - m3-s01
+
+<!-- 
+
+- 18-07-24 - Jueves - m3-s02
+- 19-07-24 - Viernes - m3-s03
+
+--- FIN DE SEMANA --- 
+
+- 22-07-24 - Lunes - m3-s04
+- 23-07-24 - Martes - m3-s05
+- 24-07-24 - Miércoles - m3-s06
+- 25-07-24 - Jueves - m3-s07
+- 26-07-24 - Viernes - m3-s08
+
+--- FIN DE SEMANA --- 
+
+- 29-07-24 - Lunes - m3-s09
+- 30-07-24 - Martes - m3-s10
+- 31-07-24 - Miércoles - m3-s11
+- 1-08-24 - Jueves - m3-s12
+- 2-08-24 - Viernes - m3-s13
+
+--- FIN DE SEMANA --- 
+
+- 5-08-24 - Lunes - m3-s14
+
 ## Módulo 4 - AI
 *Módulo 4 - Arquitectura de la información*
 
+- 6-08-24 - Martes - m4-s01
+- 7-08-24 - Miércoles - m4-s02
+- 8-08-24 - Jueves - m4-s03
+- 9-08-24 - Viernes - m4-s04
+
+--- FIN DE SEMANA --- 
+
+- 12-08-24 - Lunes - m4-s05
+- 13-08-24 - Martes - m4-s06
+- 14-08-24 - Miércoles - m4-s07
+
+--- FESTIVO + INTERFERIADO + FIN DE SEMANA --- 
+
 ## Módulo 5 - UI
 *Módulo 5 - Diseño de interfaz y de interacción*
+
+- 1-08-24 - Jueves - m3-s12
+- 2-06-24 - Viernes - m3-s13
 
 ## Módulo 6 - DEV
 *Módulo 6 - Fundamentos del diseño visual y desarrollo web*
