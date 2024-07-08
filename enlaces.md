@@ -200,21 +200,90 @@
 ## Módulo 5 - UI
 *Módulo 5 - Diseño de interfaz y de interacción*
 
-- 1-08-24 - Jueves - m3-s12
-- 2-06-24 - Viernes - m3-s13
+- 19-08-24 - Lunes - m5-s03
+- 21-08-24 - Martes - m5-s04
+- 22-08-24 - Miércoles - m5-s05
+- 23-08-24 - Jueves - m5-s06
+- 24-08-24 - Viernes - m5-s07
+
+--- FIN DE SEMANA --- 
+
+26-08-24 - Lunes - m5-s08
+27-08-24 - Martes - m5-s09
+2-08-24 - Miércoles - m5-s10
+29-08-24 - Jueves - m5-s11
+30-08-24 - Viernes - m5-s12
+
+--- FIN DE SEMANA --- 
+
+- 2-09-24 - Lunes - m5-s13
+- 3-09-24 - Martes - m5-s14
+- 4-09-24 - Miércoles - m5-s15
+- 5-09-24 - Jueves - m5-s16
+- 6-09-24 - Vernes - m5-s17
+
+--- FIN DE SEMANA --- 
+
+-9-09-24 - Lunes - m5-s18
+-10-09-24 - Martes - m5-s19
+-11-09-24 - Miércoles - m5-s20
+-12-09-24 - Jueves - m5-s21
+-13-09-24 - Viernes - m5-s22
 
 ## Módulo 6 - DEV
 *Módulo 6 - Fundamentos del diseño visual y desarrollo web*
 
+-13-09-24 - Viernes - m6-s01
+
+--- FIN DE SEMANA --- 
+
+- 16-09-24 - Lunes - m6-s02
+- 17-09-24 - Martes - m6-s03
+
+--- FESTIVO + FESTIVO + INTERFERIADO + FIN DE SEMANA --- 
+
+- 23-09-24 - Lunes - m6-s04
+- 24-09-24 - Martes - m6-s05
+- 2-09-24 - Miércoles - m6-s06
+- 26-09-24 - Jueves - m6-s07
+- 27-09-24 - Viernes - m6-s08
+
+--- FIN DE SEMANA --- 
+
+- 30-09-24 - Lunes - m6-s09
+- 1-10-24 - Martes - m6-s10
+- 2-10-24 - Miércoles - m6-s11
+- 3-10-24 - Jueves - m6-s12
+- 4-10-24 - Vernes - m6-s13
+	
+
+--- FIN DE SEMANA --- 
+
+- 7	-10-24 - Lunes - m6-s14
+- 8-10-24 - Martes - m6-s15
+- 9-10-24 - Miércoles - m6-s16
+- 10-10-24 - Jueves - m6-s17
+- 11-10-24 - Vernes - m6-s18
+	
+
+--- FIN DE SEMANA --- 
+
+- 14-10-24 - Lunes - m6-s19
+- 15-10-24 - Martes - m6-s20
+- 1-10-24 - Miércoles - m6-s21
+- 17-10-24 - Jueves - m6-s22
+- 18-10-24 - Viernes - m6-s23
+
 ## Módulo 7 - PORTAFOLIO
 *Módulo 7 - Desarrollo de portafolio de un producto digital*
 
+- 18-10-24 - Viernes - m7-s1
 
+--- FIN DE SEMANA --- 
 
-	- []()
-	- []()
-	- []()
+- 21-10-24 - Lunes - m7-s2
+- 22-10-24 - Martes - m7-s3
+- 23-10-24 - Miércoles - m7-s4
 
-	
 
  -->
