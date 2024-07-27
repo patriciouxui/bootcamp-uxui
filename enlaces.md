@@ -106,7 +106,7 @@
 	- [arquetipos - neuroquotient - MBTI](https://neuroquotient.com/indicador-mbti-indicador-de-tipos-psicologicos-de-myers-briggs-herramientas-7/)
 	- [arquetipos - 16personalities - MBTI](https://www.16personalities.com/es/descripcion-de-los-tipos)
 
-- 28-06-24 - Viernes - m2-s03-investigacion_ux
+- 28-06-24 - Viernes - m2-s03-metodos de research
 
 	- [markdown - markdown.es - qué es](https://markdown.es/)
 	- [markdown - markdown.es - sintaxis](https://markdown.es/sintaxis-markdown/)
@@ -127,61 +127,70 @@
 
 --- FIN DE SEMANA --- 
 
-- 01-07-24 - Lunes - m2-s04-investigacion_ux
+- 01-07-24 - Lunes - m2-s04-metodos-de-research
 
-- 02-07-24 - Martes - m2-s05
+- 02-07-24 - Martes - m2-s05-metodos-de-research
 
-- 03-07-24 - Miércoles - m2-s06
+- 03-07-24 - Miércoles - m2-s06-indicadores-usabilidad-y-experiencia
 
-- 04-07-24 - Jueves - m2-s07
+- 04-07-24 - Jueves - m2-s07-customer-journey-map-y-design-thinking
 
-- 05-07-24 - Viernes - m2-s08
+- 05-07-24 - Viernes - m2-s08-customer-journey-map-y-design-thinking
 
 --- FIN DE SEMANA ---
 
-- 08-07-24 - Lunes - m2-s09
+- 08-07-24 - Lunes - m2-s09-metodologias-agiles
 
-- 09-07-24 - Martes - m2-s10
+- 09-07-24 - Martes - m2-s10-metodologias-agiles
 
-- 10-07-24 - Miércoles - m2-s11
+- 10-07-24 - Miércoles - m2-s11-plan-de-investigacion
 
-- 11-07-24 - Jueves - m2-s12
+- 11-07-24 - Jueves - m2-s12-plan-de-investigacion
 
-- 12-07-24 - Viernes - m2-s13
+- 12-07-24 - Viernes - m2-s13-resumen
 
 --- FIN DE SEMANA + INTERFERIADO + FESTIVO --- 
 
 ## Módulo 3 - DCU
 *Módulo 3 - Fundamentos del diseño centrado en usuarios*
 
-- 17-07-24 - Miércoles - m3-s01
+- 17-07-24 - Miércoles - m3-s01-inroduccion-DCU
 
-<!-- 
+- 18-07-24 - Jueves - m3-s02-inroduccion-DCU
 
-- 18-07-24 - Jueves - m3-s02
-- 19-07-24 - Viernes - m3-s03
-
---- FIN DE SEMANA --- 
-
-- 22-07-24 - Lunes - m3-s04
-- 23-07-24 - Martes - m3-s05
-- 24-07-24 - Miércoles - m3-s06
-- 25-07-24 - Jueves - m3-s07
-- 26-07-24 - Viernes - m3-s08
+- 19-07-24 - Viernes - m3-s03-ideacion-DCU
 
 --- FIN DE SEMANA --- 
 
-- 29-07-24 - Lunes - m3-s09
-- 30-07-24 - Martes - m3-s10
-- 31-07-24 - Miércoles - m3-s11
-- 1-08-24 - Jueves - m3-s12
-- 2-08-24 - Viernes - m3-s13
+- 22-07-24 - Lunes - m3-s04-usabilidad-y-prototipo
+
+- 23-07-24 - Martes - m3-s05-usabilidad-y-prototipo
+
+- 24-07-24 - Miércoles - m3-s06-usabilidad-y-prototipo
+
+- 25-07-24 - Jueves - m3-s07-usabilidad-y-prototipo
+
+- 26-07-24 - Viernes - m3-s08-usabilidad-y-prototipo
+
 
 --- FIN DE SEMANA --- 
 
-- 5-08-24 - Lunes - m3-s14
+**proximamente: **
+
+- 29-07-24 - Lunes - m3-s09-DCU
+- 30-07-24 - Martes - m3-s10-DCU
+- 31-07-24 - Miércoles - m3-s11-DCU
+- 1-08-24 - Jueves - m3-s12-DCU
+- 2-08-24 - Viernes - m3-s13-DCU
+
+--- FIN DE SEMANA --- 
+
+- 5-08-24 - Lunes - m3-s14-DCU
+
 
 ## Módulo 4 - AI
+
+<!-- 
 *Módulo 4 - Arquitectura de la información*
 
 - 6-08-24 - Martes - m4-s01
