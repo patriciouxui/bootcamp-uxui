@@ -66,7 +66,7 @@
 	- extra [html - w3school - colores](https://www.w3schools.com/html/html_colors.asp)
 	- extra [wordpress - Academia de Hostinger - qué es wordpress](https://www.youtube.com/watch?v=Yp_HroRM6rw)
 
-- 26-06-24 - Miércoles - m2-s01-investigacion_ux
+- 26-06-24 - Miércoles - m2-s01-investigacion-ux
 
 	- [landing page - antevenio - elementos](https://www.antevenio.com/blog/2017/10/elementos-esenciales-de-una-landing-page-exitosa/)
 	- [landing page - mailrelay - ejemplos](https://mailrelay.com/es/blog/2021/05/11/como-crear-landing-page-perfecta-ejemplos/)
@@ -86,7 +86,7 @@
 ## Módulo 2 - UX
 **Métodos de investigación UX**
 
-- 26-06-24 - Miércoles - m2-s01-investigacion_ux
+- 26-06-24 - Miércoles - m2-s01-investigacion-ux
 
 	- [ux - anaivars - mapa de empatía](https://anaivars.com/mapa-de-empatia/)
 	- [ux - innokabi - mapa de empatía](https://innokabi.com/mapa-de-empatia-zoom-en-tu-segmento-de-cliente/)
@@ -98,7 +98,7 @@
 	- extra [historia ux - webdesignmuseum - web comienzo css](https://www.webdesignmuseum.org/css-layout-pioneers)
 	- extra [historia ux - webdesignmuseum - web flash](https://www.webdesignmuseum.org/flash-websites)
 
-- 27-06-24 - Jueves - m2-s02-metodos_de_research
+- 27-06-24 - Jueves - m2-s02-metodos-de-research
 
 	- [datos - iebschool - google analytics 4](https://www.iebschool.com/blog/google-analytics-4-todo-lo-que-tienes-que-saber-analitica-usabilidad/)
 	- [arquetipos - soyunamarca - 12 arquetipos de marca](https://www.soyunamarca.com/12-arquetipos-para-dar-personalidad-a-una-marca-en-social-media-branding/)
@@ -106,7 +106,7 @@
 	- [arquetipos - neuroquotient - MBTI](https://neuroquotient.com/indicador-mbti-indicador-de-tipos-psicologicos-de-myers-briggs-herramientas-7/)
 	- [arquetipos - 16personalities - MBTI](https://www.16personalities.com/es/descripcion-de-los-tipos)
 
-- 28-06-24 - Viernes - m2-s03-metodos de research
+- 28-06-24 - Viernes - m2-s03-metodos-de-research
 
 	- [markdown - markdown.es - qué es](https://markdown.es/)
 	- [markdown - markdown.es - sintaxis](https://markdown.es/sintaxis-markdown/)
@@ -128,6 +128,8 @@
 --- FIN DE SEMANA --- 
 
 - 01-07-24 - Lunes - m2-s04-metodos-de-research
+
+	- extra [figma - Visual Thinking Academy - cuenta educacional figma](https://www.youtube.com/watch?v=qBivO8QjSM4)
 
 - 02-07-24 - Martes - m2-s05-metodos-de-research
 
