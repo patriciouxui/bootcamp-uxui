@@ -128,28 +128,119 @@
 --- FIN DE SEMANA --- 
 
 - 01-07-24 - Lunes - m2-s04-metodos-de-research
-
+	- [CARPETA DRIVE - contenidos, calendario tareas](https://drive.google.com/drive/folders/1oh6Yoq1kRFLQ2SWpgoEY8n_Z9XJ87VPj)
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
 	- extra [figma - Visual Thinking Academy - cuenta educacional figma](https://www.youtube.com/watch?v=qBivO8QjSM4)
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
+
 
 - 02-07-24 - Martes - m2-s05-metodos-de-research
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 03-07-24 - Miércoles - m2-s06-indicadores-usabilidad-y-experiencia
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 04-07-24 - Jueves - m2-s07-customer-journey-map-y-design-thinking
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 05-07-24 - Viernes - m2-s08-customer-journey-map-y-design-thinking
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 --- FIN DE SEMANA ---
 
 - 08-07-24 - Lunes - m2-s09-metodologias-agiles
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 09-07-24 - Martes - m2-s10-metodologias-agiles
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 10-07-24 - Miércoles - m2-s11-plan-de-investigacion
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 11-07-24 - Jueves - m2-s12-plan-de-investigacion
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 12-07-24 - Viernes - m2-s13-resumen
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 --- FIN DE SEMANA + INTERFERIADO + FESTIVO --- 
 
@@ -157,37 +248,109 @@
 *Módulo 3 - Fundamentos del diseño centrado en usuarios*
 
 - 17-07-24 - Miércoles - m3-s01-inroduccion-DCU
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 18-07-24 - Jueves - m3-s02-inroduccion-DCU
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 19-07-24 - Viernes - m3-s03-ideacion-DCU
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 --- FIN DE SEMANA --- 
 
 - 22-07-24 - Lunes - m3-s04-usabilidad-y-prototipo
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 23-07-24 - Martes - m3-s05-usabilidad-y-prototipo
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 24-07-24 - Miércoles - m3-s06-usabilidad-y-prototipo
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 25-07-24 - Jueves - m3-s07-usabilidad-y-prototipo
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 - 26-07-24 - Viernes - m3-s08-usabilidad-y-prototipo
+	- []()
+	- []()
+	- []()
+	- []()
+	- []()
+	- extra []()
+	- extra []()
+	- extra []()
+	- extra []()
 
 
 --- FIN DE SEMANA --- 
 
-**proximamente:**
 
-- 29-07-24 - Lunes - m3-s09-DCU
-- 30-07-24 - Martes - m3-s10-DCU
-- 31-07-24 - Miércoles - m3-s11-DCU
-- 1-08-24 - Jueves - m3-s12-DCU
-- 2-08-24 - Viernes - m3-s13-DCU
 
---- FIN DE SEMANA --- 
+	- 29-07-24 - Lunes - m3-s09-DCU
+	- 30-07-24 - Martes - m3-s10-DCU
+	- 31-07-24 - Miércoles - m3-s11-DCU
+	- 1-08-24 - Jueves - m3-s12-DCU
+	- 2-08-24 - Viernes - m3-s13-DCU
 
-- 5-08-24 - Lunes - m3-s14-DCU
+	--- FIN DE SEMANA --- 
+
+	- 5-08-24 - Lunes - m3-s14-DCU
 
 
 ## Módulo 4 - AI

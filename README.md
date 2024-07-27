@@ -23,7 +23,7 @@ Indice
 	- [Podcasts](./podcast.md)
 
 
-### [bootcamp uxui](https://drive.google.com/drive/folders/1oh6Yoq1kRFLQ2SWpgoEY8n_Z9XJ87VPj)
+### [CARPETA DRIVE - bootcamp uxui](https://drive.google.com/drive/folders/1oh6Yoq1kRFLQ2SWpgoEY8n_Z9XJ87VPj)
 
 - 📁 docs
 - 📁 presentations
