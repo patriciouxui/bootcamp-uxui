@@ -175,7 +175,7 @@
 
 --- FIN DE SEMANA --- 
 
-**proximamente: **
+**proximamente:**
 
 - 29-07-24 - Lunes - m3-s09-DCU
 - 30-07-24 - Martes - m3-s10-DCU
