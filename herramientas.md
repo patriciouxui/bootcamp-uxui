@@ -15,7 +15,7 @@
 
 |----|----|
 |----|----|
-|   ![Google Forms](https://www.gstatic.com/images/branding/product/1x/forms_2020q4_32dp.png) [Google Forms](https://www.google.com/forms/about/) |    |
+|   ![Google Forms](https://www.gstatic.com/images/branding/product/1x/forms_2020q4_32dp.png=250x) [Google Forms](https://www.google.com/forms/about/) |    |
    - ![Typeform](https://images.typeform.com/images/favicon.ico)
    - [Typeform](https://www.typeform.com/)
 
